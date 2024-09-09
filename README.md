@@ -4,10 +4,6 @@
 
 This is a unit tests simple project for various implementations of Dijkstra's algorithm, for the QA Software Course.
 
-## Author
-
-- HoaiLinh - 20PFIEV3
-
 ## Files
 
 - `dijkstra.py`
