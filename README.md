@@ -16,5 +16,3 @@ To run a specific test case, use the command: python test_dijkstra.py --test_cas
 Where `[test_case_name]` can be `empty`, `single`, `complex`, or `multiple`.
 
 You can use base_dijikstra function with error != 0 to see the wrong tests. (Uncomment in test_dijkstra.py in replace.)
-
-## Thank You
